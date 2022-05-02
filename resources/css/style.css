@@ -88,3 +88,14 @@ h2 {
     font-weight: 300;
     color: white;
 }
+
+.footer {
+    text-align: right;
+    justify-content: flex-end;
+}
+
+.footer h4 {
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
