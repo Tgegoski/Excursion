@@ -82,3 +82,9 @@ video {
 .image-container {
     overflow: hidden;
 }
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
